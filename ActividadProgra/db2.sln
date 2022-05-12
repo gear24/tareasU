@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "animaciones", "animaciones\animaciones.csproj", "{0C2718DB-B20C-49E0-A986-5DEE9CA7E54A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "menu", "menu\menu.csproj", "{580BDF74-6CC8-432B-9524-F755C357C70B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opciones", "opciones\opciones.csproj", "{DC999075-FECE-44E7-B161-319BF786BC48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C2718DB-B20C-49E0-A986-5DEE9CA7E54A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C2718DB-B20C-49E0-A986-5DEE9CA7E54A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C2718DB-B20C-49E0-A986-5DEE9CA7E54A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C2718DB-B20C-49E0-A986-5DEE9CA7E54A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{580BDF74-6CC8-432B-9524-F755C357C70B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{580BDF74-6CC8-432B-9524-F755C357C70B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{580BDF74-6CC8-432B-9524-F755C357C70B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{580BDF74-6CC8-432B-9524-F755C357C70B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC999075-FECE-44E7-B161-319BF786BC48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC999075-FECE-44E7-B161-319BF786BC48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC999075-FECE-44E7-B161-319BF786BC48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC999075-FECE-44E7-B161-319BF786BC48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
